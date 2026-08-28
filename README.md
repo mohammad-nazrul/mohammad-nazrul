@@ -25,6 +25,8 @@
 
 ## About
 
+<img src="assets/portrait-ascii.svg" width="420" alt="ASCII-art portrait of Mohammad Nazrul" />
+
 </div>
 
 ```java
@@ -206,10 +208,10 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammad-nazrul&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=39FF14&text_color=EDEFEC&icon_color=9B5CFF" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mohammad-nazrul&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=39FF14&text_color=EDEFEC&icon_color=9B5CFF" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=mohammad-nazrul&hide_border=true&background=0A0D0A&stroke=39FF14&ring=9B5CFF&fire=39FF14&currStreakLabel=9B5CFF&sideNums=EDEFEC&currStreakNum=EDEFEC&dates=7A8580&sideLabels=EDEFEC" height="165" alt="Streak" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammad-nazrul&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=9B5CFF&text_color=EDEFEC" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mohammad-nazrul&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=9B5CFF&text_color=EDEFEC" height="165" alt="Top languages" />
 
 <br/><br/>
 
