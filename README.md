@@ -1,31 +1,33 @@
 <!-- ══════════════════════════ HERO ══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D0A,50:9B5CFF,100:39FF14&height=210&section=header&text=MOHAMMAD%20NAZRUL&fontSize=56&fontColor=EDEFEC&fontAlignY=38&desc=FINTECH%20BACKEND%20%E2%80%A2%20JAVA%20%2F%20SPRING%20BOOT%20%E2%80%A2%20NLP%20RESEARCH&descAlignY=60&descSize=16" width="100%" alt="Mohammad Nazrul" />
-
 <div align="center">
 
+<img src="assets/portrait-ascii.svg" width="380" alt="ASCII-art portrait of Mohammad Nazrul" />
+
+# MOHAMMAD NAZRUL
+
+**FINTECH BACKEND • JAVA / SPRING BOOT • NLP RESEARCH**
+
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=39FF14&center=true&vCenter=true&width=620&height=45&lines=Payment+%26+compliance+systems+in+production;Java+%C2%B7+Spring+Boot+%C2%B7+Oracle+%C2%B7+PostgreSQL;NLP+research+%E2%86%92+UML+from+natural+language;Shipping+SaaS+nobody+asked+for" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=7A8580&center=true&vCenter=true&width=620&height=45&lines=Payment+%26+compliance+systems+in+production;Java+%C2%B7+Spring+Boot+%C2%B7+Oracle+%C2%B7+PostgreSQL;NLP+research+%E2%86%92+UML+from+natural+language;Shipping+SaaS+nobody+asked+for" alt="What I do" />
 </a>
 
 <br/>
 
-<a href="https://mohammad-nazrul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9B5CFF?style=for-the-badge&logo=googlechrome&logoColor=0A0D0A" alt="Portfolio" /></a>
-<a href="https://www.researchgate.net/profile/Mohammad-Nazrul-Mornie"><img src="https://img.shields.io/badge/ResearchGate-39FF14?style=for-the-badge&logo=researchgate&logoColor=0A0D0A" alt="ResearchGate" /></a>
-<a href="mailto:nazmnm5@gmail.com"><img src="https://img.shields.io/badge/Email-0A0D0A?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=mohammad-nazrul&label=Profile%20views&color=9B5CFF&style=for-the-badge" alt="Profile views" />
+<a href="https://mohammad-nazrul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5A625E?style=for-the-badge&logo=googlechrome&logoColor=0A0D0A" alt="Portfolio" /></a>
+<a href="https://www.researchgate.net/profile/Mohammad-Nazrul-Mornie"><img src="https://img.shields.io/badge/ResearchGate-9AA5A0?style=for-the-badge&logo=researchgate&logoColor=0A0D0A" alt="ResearchGate" /></a>
+<a href="mailto:nazmnm5@gmail.com"><img src="https://img.shields.io/badge/Email-0A0D0A?style=for-the-badge&logo=gmail&logoColor=EDEFEC" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=mohammad-nazrul&label=Profile%20views&color=7A8580&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D0A,50:9B5CFF,100:39FF14&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D0A,50:7A8580,100:EDEFEC&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
 ## About
-
-<img src="assets/portrait-ascii.svg" width="420" alt="ASCII-art portrait of Mohammad Nazrul" />
 
 </div>
 
@@ -57,7 +59,7 @@ The rest of the time I build small SaaS products end to end, mostly to find out 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:0A0D0A,100:9B5CFF&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDEFEC,50:0A0D0A,100:7A8580&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -71,19 +73,19 @@ The rest of the time I build small SaaS products end to end, mostly to find out 
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-0A0D0A?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-39FF14?style=for-the-badge&logo=springboot&logoColor=0A0D0A)
-![Hibernate](https://img.shields.io/badge/Hibernate-9B5CFF?style=for-the-badge&logo=hibernate&logoColor=0A0D0A)
-![Python](https://img.shields.io/badge/Python-0A0D0A?style=for-the-badge&logo=python&logoColor=9B5CFF)
+![Java](https://img.shields.io/badge/Java-0A0D0A?style=for-the-badge&logo=openjdk&logoColor=EDEFEC)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-9AA5A0?style=for-the-badge&logo=springboot&logoColor=0A0D0A)
+![Hibernate](https://img.shields.io/badge/Hibernate-5A625E?style=for-the-badge&logo=hibernate&logoColor=0A0D0A)
+![Python](https://img.shields.io/badge/Python-0A0D0A?style=for-the-badge&logo=python&logoColor=C7CCC9)
 
 </td>
 <td valign="top" width="50%">
 
 **Data**
 
-![Oracle](https://img.shields.io/badge/Oracle-39FF14?style=for-the-badge&logo=oracle&logoColor=0A0D0A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9B5CFF?style=for-the-badge&logo=postgresql&logoColor=0A0D0A)
-![Firebase](https://img.shields.io/badge/Firebase-0A0D0A?style=for-the-badge&logo=firebase&logoColor=39FF14)
+![Oracle](https://img.shields.io/badge/Oracle-9AA5A0?style=for-the-badge&logo=oracle&logoColor=0A0D0A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5A625E?style=for-the-badge&logo=postgresql&logoColor=0A0D0A)
+![Firebase](https://img.shields.io/badge/Firebase-0A0D0A?style=for-the-badge&logo=firebase&logoColor=EDEFEC)
 
 </td>
 </tr>
@@ -92,21 +94,21 @@ The rest of the time I build small SaaS products end to end, mostly to find out 
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0A0D0A?style=for-the-badge&logo=react&logoColor=39FF14)
-![Next.js](https://img.shields.io/badge/Next.js-39FF14?style=for-the-badge&logo=nextdotjs&logoColor=0A0D0A)
-![TypeScript](https://img.shields.io/badge/TypeScript-9B5CFF?style=for-the-badge&logo=typescript&logoColor=0A0D0A)
-![Flutter](https://img.shields.io/badge/Flutter-0A0D0A?style=for-the-badge&logo=flutter&logoColor=9B5CFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-39FF14?style=for-the-badge&logo=tailwindcss&logoColor=0A0D0A)
+![React](https://img.shields.io/badge/React-0A0D0A?style=for-the-badge&logo=react&logoColor=EDEFEC)
+![Next.js](https://img.shields.io/badge/Next.js-9AA5A0?style=for-the-badge&logo=nextdotjs&logoColor=0A0D0A)
+![TypeScript](https://img.shields.io/badge/TypeScript-5A625E?style=for-the-badge&logo=typescript&logoColor=0A0D0A)
+![Flutter](https://img.shields.io/badge/Flutter-0A0D0A?style=for-the-badge&logo=flutter&logoColor=C7CCC9)
+![Tailwind](https://img.shields.io/badge/Tailwind-9AA5A0?style=for-the-badge&logo=tailwindcss&logoColor=0A0D0A)
 
 </td>
 <td valign="top" width="50%">
 
 **Tooling & Research**
 
-![Docker](https://img.shields.io/badge/Docker-9B5CFF?style=for-the-badge&logo=docker&logoColor=0A0D0A)
-![Git](https://img.shields.io/badge/Git-0A0D0A?style=for-the-badge&logo=git&logoColor=39FF14)
-![Vercel](https://img.shields.io/badge/Vercel-39FF14?style=for-the-badge&logo=vercel&logoColor=0A0D0A)
-![spaCy](https://img.shields.io/badge/NLP-0A0D0A?style=for-the-badge&logo=spacy&logoColor=9B5CFF)
+![Docker](https://img.shields.io/badge/Docker-5A625E?style=for-the-badge&logo=docker&logoColor=0A0D0A)
+![Git](https://img.shields.io/badge/Git-0A0D0A?style=for-the-badge&logo=git&logoColor=EDEFEC)
+![Vercel](https://img.shields.io/badge/Vercel-9AA5A0?style=for-the-badge&logo=vercel&logoColor=0A0D0A)
+![spaCy](https://img.shields.io/badge/NLP-0A0D0A?style=for-the-badge&logo=spacy&logoColor=C7CCC9)
 
 </td>
 </tr>
@@ -114,7 +116,7 @@ The rest of the time I build small SaaS products end to end, mostly to find out 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B5CFF,50:0A0D0A,100:39FF14&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A8580,50:0A0D0A,100:EDEFEC&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -130,10 +132,10 @@ The rest of the time I build small SaaS products end to end, mostly to find out 
 
 Multi-tenant appointment booking SaaS for Malaysian service businesses. Tenant isolation, recurring subscriptions through CHIP, and a booking engine that survives double-booking races.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0D0A?style=flat-square&logo=springboot&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39FF14?style=flat-square&logo=postgresql&logoColor=0A0D0A)
-![React](https://img.shields.io/badge/React-9B5CFF?style=flat-square&logo=react&logoColor=0A0D0A)
-![CHIP Recurring](https://img.shields.io/badge/CHIP_Recurring-0A0D0A?style=flat-square&logoColor=9B5CFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0D0A?style=flat-square&logo=springboot&logoColor=EDEFEC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9AA5A0?style=flat-square&logo=postgresql&logoColor=0A0D0A)
+![React](https://img.shields.io/badge/React-5A625E?style=flat-square&logo=react&logoColor=0A0D0A)
+![CHIP Recurring](https://img.shields.io/badge/CHIP_Recurring-0A0D0A?style=flat-square&logoColor=C7CCC9)
 
 <sub>🔒 Private · in development</sub>
 
@@ -144,9 +146,9 @@ Multi-tenant appointment booking SaaS for Malaysian service businesses. Tenant i
 
 Rental property management with a custom "ledger" design language — every balance traceable to the transaction that caused it. Dark mode by default.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-0A0D0A?style=flat-square&logo=nextdotjs&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-39FF14?style=flat-square&logo=typescript&logoColor=0A0D0A)
-![Tailwind](https://img.shields.io/badge/Tailwind-9B5CFF?style=flat-square&logo=tailwindcss&logoColor=0A0D0A)
+![Next.js](https://img.shields.io/badge/Next.js_14-0A0D0A?style=flat-square&logo=nextdotjs&logoColor=EDEFEC)
+![TypeScript](https://img.shields.io/badge/TypeScript-9AA5A0?style=flat-square&logo=typescript&logoColor=0A0D0A)
+![Tailwind](https://img.shields.io/badge/Tailwind-5A625E?style=flat-square&logo=tailwindcss&logoColor=0A0D0A)
 
 <a href="https://github.com/mohammad-nazrul/rent-bro"><sub>→ github.com/mohammad-nazrul/rent-bro</sub></a>
 
@@ -159,9 +161,9 @@ Rental property management with a custom "ledger" design language — every bala
 
 Gamified, goal-based savings tracker. Uses the Anthropic API to turn vague intentions like "save for a trip" into structured, trackable goals.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0D0A?style=flat-square&logo=springboot&logoColor=9B5CFF)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-9B5CFF?style=flat-square&logoColor=0A0D0A)
-![React](https://img.shields.io/badge/React-39FF14?style=flat-square&logo=react&logoColor=0A0D0A)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0D0A?style=flat-square&logo=springboot&logoColor=C7CCC9)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-5A625E?style=flat-square&logoColor=0A0D0A)
+![React](https://img.shields.io/badge/React-9AA5A0?style=flat-square&logo=react&logoColor=0A0D0A)
 
 <sub>🔒 Private · in development</sub>
 
@@ -172,9 +174,9 @@ Gamified, goal-based savings tracker. Uses the Anthropic API to turn vague inten
 
 Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. Silver Award at INTEX, and the subject of a published journal paper.
 
-![Java](https://img.shields.io/badge/Java-0A0D0A?style=flat-square&logo=openjdk&logoColor=39FF14)
-![Android](https://img.shields.io/badge/Android-39FF14?style=flat-square&logo=android&logoColor=0A0D0A)
-![Firebase](https://img.shields.io/badge/Firebase-9B5CFF?style=flat-square&logo=firebase&logoColor=0A0D0A)
+![Java](https://img.shields.io/badge/Java-0A0D0A?style=flat-square&logo=openjdk&logoColor=EDEFEC)
+![Android](https://img.shields.io/badge/Android-9AA5A0?style=flat-square&logo=android&logoColor=0A0D0A)
+![Firebase](https://img.shields.io/badge/Firebase-5A625E?style=flat-square&logo=firebase&logoColor=0A0D0A)
 
 <a href="https://github.com/mohammad-nazrul/enelayan"><sub>→ github.com/mohammad-nazrul/enelayan</sub></a>
 
@@ -184,7 +186,7 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D0A,50:39FF14,100:9B5CFF&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D0A,50:EDEFEC,100:7A8580&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -196,30 +198,30 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 >
 > A rule-and-dependency pipeline over Stanza and Stanford CoreNLP that extracts actors, use cases, and relationships from plain-English user stories, then emits a valid use case diagram. Evaluated across sixteen case studies against human-drawn baselines.
 >
-> ![Publications](https://img.shields.io/badge/Publications-3-39FF14?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-16-9B5CFF?style=flat-square) ![Case studies](https://img.shields.io/badge/Case_studies-16-0A0D0A?style=flat-square)
+> ![Publications](https://img.shields.io/badge/Publications-3-9AA5A0?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-16-5A625E?style=flat-square) ![Case studies](https://img.shields.io/badge/Case_studies-16-0A0D0A?style=flat-square)
 >
 > 📄 Full list on [ResearchGate](https://www.researchgate.net/profile/Mohammad-Nazrul-Mornie)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B5CFF,50:39FF14,100:0A0D0A&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A8580,50:EDEFEC,100:0A0D0A&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mohammad-nazrul&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=39FF14&text_color=EDEFEC&icon_color=9B5CFF" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=mohammad-nazrul&hide_border=true&background=0A0D0A&stroke=39FF14&ring=9B5CFF&fire=39FF14&currStreakLabel=9B5CFF&sideNums=EDEFEC&currStreakNum=EDEFEC&dates=7A8580&sideLabels=EDEFEC" height="165" alt="Streak" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mohammad-nazrul&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=EDEFEC&text_color=C7CCC9&icon_color=7A8580" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=mohammad-nazrul&hide_border=true&background=0A0D0A&stroke=7A8580&ring=EDEFEC&fire=EDEFEC&currStreakLabel=C7CCC9&sideNums=EDEFEC&currStreakNum=EDEFEC&dates=7A8580&sideLabels=C7CCC9" height="165" alt="Streak" />
 
-<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mohammad-nazrul&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=9B5CFF&text_color=EDEFEC" height="165" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://profile-trophy.vercel.app/?username=mohammad-nazrul&theme=darkhub&no-frame=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mohammad-nazrul&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0A0D0A&title_color=EDEFEC&text_color=C7CCC9" height="165" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-nazrul&bg_color=0A0D0A&color=39FF14&line=39FF14&point=9B5CFF&area=true&area_color=39FF14&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+<img src="https://profile-trophy.vercel.app/?username=mohammad-nazrul&theme=gitdimmed&no-frame=true&margin-w=8&column=7" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-nazrul&bg_color=0A0D0A&color=EDEFEC&line=EDEFEC&point=EDEFEC&area=true&area_color=3A403D&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -237,7 +239,7 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:9B5CFF,100:0A0D0A&height=5&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDEFEC,50:7A8580,100:0A0D0A&height=5&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -258,9 +260,9 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 
 ### Let's talk
 
-<a href="https://mohammad-nazrul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9B5CFF?style=for-the-badge&logo=googlechrome&logoColor=0A0D0A" alt="Portfolio" /></a>
-<a href="https://www.researchgate.net/profile/Mohammad-Nazrul-Mornie"><img src="https://img.shields.io/badge/ResearchGate-39FF14?style=for-the-badge&logo=researchgate&logoColor=0A0D0A" alt="ResearchGate" /></a>
-<a href="mailto:nazmnm5@gmail.com"><img src="https://img.shields.io/badge/Email-0A0D0A?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
+<a href="https://mohammad-nazrul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5A625E?style=for-the-badge&logo=googlechrome&logoColor=0A0D0A" alt="Portfolio" /></a>
+<a href="https://www.researchgate.net/profile/Mohammad-Nazrul-Mornie"><img src="https://img.shields.io/badge/ResearchGate-9AA5A0?style=for-the-badge&logo=researchgate&logoColor=0A0D0A" alt="ResearchGate" /></a>
+<a href="mailto:nazmnm5@gmail.com"><img src="https://img.shields.io/badge/Email-0A0D0A?style=for-the-badge&logo=gmail&logoColor=EDEFEC" alt="Email" /></a>
 
 <br/><br/>
 
@@ -268,4 +270,4 @@ Marketplace letting fishermen in Kota Samarahan sell catch directly to buyers. S
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:9B5CFF,100:0A0D0A&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDEFEC,50:7A8580,100:0A0D0A&height=120&section=footer" width="100%" alt="" />
