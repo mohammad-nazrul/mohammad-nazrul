@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="344" viewBox="0 0 860 344" role="img" aria-label="Core technologies: Java, Spring Boot, Python, TypeScript, React, Next.js, Flutter, Oracle, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AI / NLP. Top languages: Java 55%, PHP 25%, TypeScript 15%, JavaScript 5%">
+  <title>Core technologies: Java, Spring Boot, Python, TypeScript, React, Next.js, Flutter, Oracle, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AI / NLP. Top languages: Java 55%, PHP 25%, TypeScript 15%, JavaScript 5%</title>
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .tab { font-variant-numeric: tabular-nums; }
+    .enter { animation: enter .6s cubic-bezier(.25,1,.5,1) both; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes enter { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 50% { opacity: .4; } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  
+  <g class="enter">
+    
+  <defs>
+    <linearGradient id="cg13" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.025"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hl14" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="543" height="343" rx="12" fill="#0e1116"/>
+  <rect x="0.5" y="0.5" width="543" height="343" rx="12" fill="url(#cg13)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="12" y1="1" x2="532" y2="1" stroke="url(#hl14)"/>
+    
+  <rect x="22.5" y="22.5" width="29" height="29" rx="7.5" fill="#13171e" stroke="#ffffff" stroke-opacity="0.08"/>
+  <g transform="translate(29 29) scale(0.6666666666666666)" fill="none" stroke="#9aa3ad" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/></g>
+  <text x="64" y="35" class="t" font-size="15" font-weight="600" fill="#e6edf3" letter-spacing="-0.15">Core Technologies</text>
+  <text x="64" y="52" class="t" font-size="12" fill="#6b737e">14 technologies across production systems</text>
+    
+    
+    <text x="22" y="103.6" class="m" font-size="10" letter-spacing="1.4" fill="#6b737e">BACKEND</text>
+    
+    <rect x="140.5" y="86.5" width="67" height="27" rx="7.5" fill="#c8702c" fill-opacity="0.065" stroke="#c8702c" stroke-opacity="0.3"/>
+    <g transform="translate(149 93) scale(0.5833333333333334)" fill="none" stroke="#c8702c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/><path d="M6 2v2"/></g>
+    <text x="171" y="104.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Java</text>
+    <rect x="215.5" y="86.5" width="106" height="27" rx="7.5" fill="#5fa04e" fill-opacity="0.065" stroke="#5fa04e" stroke-opacity="0.3"/>
+    <g transform="translate(224 93) scale(0.5833333333333334)" fill="none" stroke="#5fa04e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20a10 10 0 0010-10 25.9 25.9 0 00-1.04-7.281 1 1 0 00-1.755-.325C15.833 5.5 13 5.5 9.8 6.1A7 7 0 0011 20"/><path d="M2 21a5 5 0 012.911-4.544C7.613 15.212 8.351 15.24 11 13"/></g>
+    <text x="246" y="104.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Spring Boot</text>
+    <rect x="329.5" y="86.5" width="80" height="27" rx="7.5" fill="#a38e1c" fill-opacity="0.065" stroke="#a38e1c" stroke-opacity="0.3"/>
+    <g transform="translate(338 93) scale(0.5833333333333334)" fill="none" stroke="#a38e1c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></g>
+    <text x="360" y="104.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Python</text>
+    <line x1="22" y1="126" x2="522" y2="126" stroke="#ffffff" stroke-opacity="0.06"/>
+    <text x="22" y="155.6" class="m" font-size="10" letter-spacing="1.4" fill="#6b737e">FRONTEND</text>
+    
+    <rect x="140.5" y="138.5" width="101" height="27" rx="7.5" fill="#4c8dff" fill-opacity="0.065" stroke="#4c8dff" stroke-opacity="0.3"/>
+    <rect x="149" y="145" width="14" height="14" rx="3" fill="#4c8dff"/><text x="156" y="155.08" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.700000000000001" font-weight="700" fill="#0b1220">TS</text>
+    <text x="171" y="156.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">TypeScript</text>
+    <rect x="249.5" y="138.5" width="74" height="27" rx="7.5" fill="#4fb3d9" fill-opacity="0.065" stroke="#4fb3d9" stroke-opacity="0.3"/>
+    <g transform="translate(258 145) scale(0.5833333333333334)" fill="none" stroke="#4fb3d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="1"/><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"/><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"/></g>
+    <text x="280" y="156.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">React</text>
+    <rect x="331.5" y="138.5" width="79" height="27" rx="7.5" fill="#c9d1d9" fill-opacity="0.065" stroke="#c9d1d9" stroke-opacity="0.3"/>
+    <g transform="translate(340 145) scale(0.5833333333333334)" fill="none" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/></g>
+    <text x="362" y="156.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Next.js</text>
+    <rect x="418.5" y="138.5" width="76" height="27" rx="7.5" fill="#4f9fe0" fill-opacity="0.065" stroke="#4f9fe0" stroke-opacity="0.3"/>
+    <g transform="translate(427 145) scale(0.5833333333333334)" fill="none" stroke="#4f9fe0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+    <text x="449" y="156.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Flutter</text>
+    <line x1="22" y1="178" x2="522" y2="178" stroke="#ffffff" stroke-opacity="0.06"/>
+    <text x="22" y="207.6" class="m" font-size="10" letter-spacing="1.4" fill="#6b737e">DATA &amp; MESSAGING</text>
+    
+    <rect x="140.5" y="190.5" width="78" height="27" rx="7.5" fill="#d0544a" fill-opacity="0.065" stroke="#d0544a" stroke-opacity="0.3"/>
+    <g transform="translate(149 197) scale(0.5833333333333334)" fill="none" stroke="#d0544a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="8" x="2" y="2" rx="2" ry="2"/><rect width="20" height="8" x="2" y="14" rx="2" ry="2"/><line x1="6" x2="6.01" y1="6" y2="6"/><line x1="6" x2="6.01" y1="18" y2="18"/></g>
+    <text x="171" y="208.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Oracle</text>
+    <rect x="226.5" y="190.5" width="109" height="27" rx="7.5" fill="#6a8fc7" fill-opacity="0.065" stroke="#6a8fc7" stroke-opacity="0.3"/>
+    <g transform="translate(235 197) scale(0.5833333333333334)" fill="none" stroke="#6a8fc7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></g>
+    <text x="257" y="208.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">PostgreSQL</text>
+    <rect x="343.5" y="190.5" width="73" height="27" rx="7.5" fill="#d05a4a" fill-opacity="0.065" stroke="#d05a4a" stroke-opacity="0.3"/>
+    <g transform="translate(352 197) scale(0.5833333333333334)" fill="none" stroke="#d05a4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></g>
+    <text x="374" y="208.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Redis</text>
+    <rect x="424.5" y="190.5" width="73" height="27" rx="7.5" fill="#aab2bd" fill-opacity="0.065" stroke="#aab2bd" stroke-opacity="0.3"/>
+    <g transform="translate(433 197) scale(0.5833333333333334)" fill="none" stroke="#aab2bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m10.586 5.414-5.172 5.172"/><path d="m18.586 13.414-5.172 5.172"/><path d="M6 12h12"/><circle cx="12" cy="20" r="2"/><circle cx="12" cy="4" r="2"/><circle cx="20" cy="12" r="2"/><circle cx="4" cy="12" r="2"/></g>
+    <text x="455" y="208.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Kafka</text>
+    <line x1="22" y1="230" x2="522" y2="230" stroke="#ffffff" stroke-opacity="0.06"/>
+    <text x="22" y="259.6" class="m" font-size="10" letter-spacing="1.4" fill="#6b737e">PLATFORM</text>
+    
+    <rect x="140.5" y="242.5" width="81" height="27" rx="7.5" fill="#3f8fd8" fill-opacity="0.065" stroke="#3f8fd8" stroke-opacity="0.3"/>
+    <g transform="translate(149 249) scale(0.5833333333333334)" fill="none" stroke="#3f8fd8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 7.7c0-.6-.4-1.2-.8-1.5l-6.3-3.9a1.72 1.72 0 0 0-1.7 0l-10.3 6c-.5.2-.9.8-.9 1.4v6.6c0 .5.4 1.2.8 1.5l6.3 3.9a1.72 1.72 0 0 0 1.7 0l10.3-6c.5-.3.9-1 .9-1.5Z"/><path d="M10 21.9V14L2.1 9.1"/><path d="m10 14 11.9-6.9"/><path d="M14 19.8v-8.1"/><path d="M18 17.5V9.4"/></g>
+    <text x="171" y="260.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Docker</text>
+    <rect x="229.5" y="242.5" width="105" height="27" rx="7.5" fill="#5b82e0" fill-opacity="0.065" stroke="#5b82e0" stroke-opacity="0.3"/>
+    <g transform="translate(238 249) scale(0.5833333333333334)" fill="none" stroke="#5b82e0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M12 2v7.5"/><path d="m19 5-5.23 5.23"/><path d="M22 12h-7.5"/><path d="m19 19-5.23-5.23"/><path d="M12 14.5V22"/><path d="M10.23 13.77 5 19"/><path d="M9.5 12H2"/><path d="M10.23 10.23 5 5"/><circle cx="12" cy="12" r="2.5"/></g>
+    <text x="260" y="260.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">Kubernetes</text>
+    <line x1="22" y1="282" x2="522" y2="282" stroke="#ffffff" stroke-opacity="0.06"/>
+    <text x="22" y="311.6" class="m" font-size="10" letter-spacing="1.4" fill="#6b737e">AI</text>
+    
+    <rect x="140.5" y="294.5" width="88" height="27" rx="7.5" fill="#9b85f0" fill-opacity="0.065" stroke="#9b85f0" stroke-opacity="0.3"/>
+    <g transform="translate(149 301) scale(0.5833333333333334)" fill="none" stroke="#9b85f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M9 13a4.5 4.5 0 0 0 3-4"/><path d="M6.003 5.125A3 3 0 0 0 6.401 6.5"/><path d="M3.477 10.896a4 4 0 0 1 .585-.396"/><path d="M6 18a4 4 0 0 1-1.967-.516"/><path d="M12 13h4"/><path d="M12 18h6a2 2 0 0 1 2 2v1"/><path d="M12 8h8"/><path d="M16 8V5a2 2 0 0 1 2-2"/><circle cx="16" cy="13" r=".5"/><circle cx="18" cy="3" r=".5"/><circle cx="20" cy="21" r=".5"/><circle cx="20" cy="8" r=".5"/></g>
+    <text x="171" y="312.4" class="t" font-size="12.5" font-weight="500" fill="#e6edf3" fill-opacity="0.92">AI / NLP</text></g>
+  <g transform="translate(556 0)"><g class="enter" style="animation-delay:80ms">
+    
+  <defs>
+    <linearGradient id="cg15" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.025"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hl16" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="303" height="343" rx="12" fill="#0e1116"/>
+  <rect x="0.5" y="0.5" width="303" height="343" rx="12" fill="url(#cg15)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="12" y1="1" x2="292" y2="1" stroke="url(#hl16)"/>
+    
+  <rect x="22.5" y="22.5" width="29" height="29" rx="7.5" fill="#13171e" stroke="#ffffff" stroke-opacity="0.08"/>
+  <g transform="translate(29 29) scale(0.6666666666666666)" fill="none" stroke="#9aa3ad" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12c.552 0 1.005-.449.95-.998a10 10 0 0 0-8.953-8.951c-.55-.055-.998.398-.998.95v8a1 1 0 0 0 1 1z"/><path d="M21.21 15.89A10 10 0 1 1 8 2.83"/></g>
+  <text x="64" y="35" class="t" font-size="15" font-weight="600" fill="#e6edf3" letter-spacing="-0.15">Top Languages</text>
+  <text x="64" y="52" class="t" font-size="12" fill="#6b737e">By bytes across 9 original public repos</text>
+    <path class="enter" style="animation-delay:200ms" d="M84.00 144.00 A62 62 0 1 1 64.84 264.97 L70.09 248.80 A45 45 0 1 0 84.00 161.00 Z" fill="#c8702c" stroke="#0e1116" stroke-width="2" stroke-linejoin="round"/><path class="enter" style="animation-delay:290ms" d="M64.84 264.97 A62 62 0 0 1 25.03 186.84 L41.20 192.09 A45 45 0 0 0 70.09 248.80 Z" fill="#8d73e6" stroke="#0e1116" stroke-width="2" stroke-linejoin="round"/><path class="enter" style="animation-delay:380ms" d="M25.03 186.84 A62 62 0 0 1 64.84 147.03 L70.09 163.20 A45 45 0 0 0 41.20 192.09 Z" fill="#4c8dff" stroke="#0e1116" stroke-width="2" stroke-linejoin="round"/><path class="enter" style="animation-delay:470ms" d="M64.84 147.03 A62 62 0 0 1 84.00 144.00 L84.00 161.00 A45 45 0 0 0 70.09 163.20 Z" fill="#1ea394" stroke="#0e1116" stroke-width="2" stroke-linejoin="round"/>
+    <text x="84" y="212" text-anchor="middle" class="t tab" font-size="30" font-weight="600" letter-spacing="-1.1" fill="#e6edf3">9</text>
+    <text x="84" y="230" text-anchor="middle" class="m" font-size="9.5" letter-spacing="1.6" fill="#6b737e">REPOS</text>
+    
+      <circle cx="177" cy="165" r="4.5" fill="#c8702c"/>
+      <text x="189" y="169.3" class="t" font-size="12.5" fill="#9aa3ad">Java</text>
+      <text x="282" y="169.3" text-anchor="end" class="m tab" font-size="11.5" fill="#e6edf3">55%</text>
+      <circle cx="177" cy="192" r="4.5" fill="#8d73e6"/>
+      <text x="189" y="196.3" class="t" font-size="12.5" fill="#9aa3ad">PHP</text>
+      <text x="282" y="196.3" text-anchor="end" class="m tab" font-size="11.5" fill="#e6edf3">25%</text>
+      <circle cx="177" cy="219" r="4.5" fill="#4c8dff"/>
+      <text x="189" y="223.3" class="t" font-size="12.5" fill="#9aa3ad">TypeScript</text>
+      <text x="282" y="223.3" text-anchor="end" class="m tab" font-size="11.5" fill="#e6edf3">15%</text>
+      <circle cx="177" cy="246" r="4.5" fill="#1ea394"/>
+      <text x="189" y="250.3" class="t" font-size="12.5" fill="#9aa3ad">JavaScript</text>
+      <text x="282" y="250.3" text-anchor="end" class="m tab" font-size="11.5" fill="#e6edf3">5%</text></g></g>
+</svg>

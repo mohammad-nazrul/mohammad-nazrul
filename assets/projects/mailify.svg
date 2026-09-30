@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="178" viewBox="0 0 420 178" role="img" aria-label="Mailify — Personalized email composition and automation platform supporting templates, dynamic fields and multi-recipient workflows. (private · In development)">
+  <title>Mailify — Personalized email composition and automation platform supporting templates, dynamic fields and multi-recipient workflows. (private · In development)</title>
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .tab { font-variant-numeric: tabular-nums; }
+    .enter { animation: enter .6s cubic-bezier(.25,1,.5,1) both; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes enter { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 50% { opacity: .4; } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g class="enter">
+  
+  <defs>
+    <linearGradient id="cg23" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.025"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hl24" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="419" height="177" rx="12" fill="#0e1116"/>
+  <rect x="0.5" y="0.5" width="419" height="177" rx="12" fill="url(#cg23)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="12" y1="1" x2="408" y2="1" stroke="url(#hl24)"/>
+  
+  <g transform="translate(20 22)" fill="none" stroke="#6b737e" stroke-width="1.3" stroke-linejoin="round">
+    <path d="M3 13.25V2.75C3 2.06 3.56 1.5 4.25 1.5H13v10H4.25C3.56 11.5 3 12.06 3 12.75s.56 1.25 1.25 1.25H6"/>
+    <path d="M8 12.5v3l1.25-.9 1.25.9v-3"/><path d="M13 11.5v2.5h-1.5"/>
+  </g>
+  <text x="46" y="36" class="t" font-size="15.5" font-weight="600" letter-spacing="-0.15" fill="#4f94f7">Mailify</text>
+  
+  <rect x="102.60707500000001" y="21.5" width="49" height="19" rx="10" fill="#13171e" fill-opacity="0" stroke="#ffffff" stroke-opacity="0.15"/>
+  
+  <text x="110.10707500000001" y="34.96" class="t" font-size="11" font-weight="500" fill="#9aa3ad">Private</text>
+  
+    <g transform="translate(374 18)">
+      <rect x="0.5" y="0.5" width="25" height="25" rx="6" fill="#13171e" stroke="#ffffff" stroke-opacity="0.1"/>
+      <g transform="translate(6.5 6.5) scale(0.5)" fill="none" stroke="#6b737e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g>
+    </g>
+  <text x="20" y="66" class="t" font-size="13" fill="#9aa3ad">Personalized email composition and automation platform</text><text x="20" y="85.5" class="t" font-size="13" fill="#9aa3ad">supporting templates, dynamic fields and multi-recipient…</text>
+  <rect x="20" y="106" width="48" height="20" rx="10" fill="#4f94f7" fill-opacity="0.1"/>
+        <text x="28" y="119.6" class="m" font-size="10.5" fill="#7cb0fb">react</text><rect x="74" y="106" width="85" height="20" rx="10" fill="#4f94f7" fill-opacity="0.1"/>
+        <text x="82" y="119.6" class="m" font-size="10.5" fill="#7cb0fb">spring-boot</text><rect x="165" y="106" width="48" height="20" rx="10" fill="#4f94f7" fill-opacity="0.1"/>
+        <text x="173" y="119.6" class="m" font-size="10.5" fill="#7cb0fb">email</text><rect x="219" y="106" width="79" height="20" rx="10" fill="#4f94f7" fill-opacity="0.1"/>
+        <text x="227" y="119.6" class="m" font-size="10.5" fill="#7cb0fb">templating</text>
+  <line x1="20" y1="140" x2="400" y2="140" stroke="#ffffff" stroke-opacity="0.07"/>
+  
+      <circle cx="24" cy="157" r="4" fill="#d29922"/>
+      <text x="35" y="161" class="t" font-size="12" fill="#9aa3ad">In development</text></g>
+</svg>
