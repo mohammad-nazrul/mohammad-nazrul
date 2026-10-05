@@ -5,9 +5,9 @@
 
 <a href="https://nazrulmornie.my"><img src="assets/hero.svg" width="100%" alt="Welcome to Nazrul's Hub. Explore his engineering work, open-source projects, technology stack and contributions." /></a>
 
-<a href="https://github.com/mohammad-nazrul?tab=repositories"><img src="assets/stats.svg" width="100%" alt="Contributions: 187 (in the last 12 months) · Repositories: 25 (12 original, rest forks) · Publications: 3 (16 citations) · Years on GitHub: 7 (Since 2019)" /></a>
+<a href="https://github.com/mohammad-nazrul?tab=repositories"><img src="assets/stats.svg" width="100%" alt="Contributions: 192 (in the last 12 months) · Repositories: 25 (12 original, rest forks) · Publications: 3 (16 citations) · Years on GitHub: 7 (Since 2019)" /></a>
 
-<a href="https://github.com/mohammad-nazrul"><img src="assets/contributions.svg" width="100%" alt="187 contributions in the last year" /></a>
+<a href="https://github.com/mohammad-nazrul"><img src="assets/contributions.svg" width="100%" alt="192 contributions in the last year" /></a>
 
 <a href="https://github.com/mohammad-nazrul?tab=repositories"><img src="assets/stack.svg" width="100%" alt="Core technologies and top languages: Java 55%, PHP 25%, TypeScript 15%, JavaScript 5%" /></a>
 
