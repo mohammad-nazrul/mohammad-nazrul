@@ -136,9 +136,9 @@
   
   <text x="266" y="204.32" class="t" font-size="12" font-weight="500" fill="#9aa3ad">AI / NLP</text>
     
-  <rect x="328.5" y="188.5" width="117" height="23" rx="12" fill="#3fb950" fill-opacity="0.08" stroke="#3fb950" stroke-opacity="0.3"/>
-  <circle cx="341" cy="200" r="3" fill="#3fb950" class="pulse"/>
-  <text x="350" y="204.32" class="t" font-size="12" font-weight="500" fill="#56d364">Active this week</text>
+  <rect x="328.5" y="188.5" width="153" height="23" rx="12" fill="#13171e" fill-opacity="0.6" stroke="#ffffff" stroke-opacity="0.09"/>
+  <circle cx="341" cy="200" r="3" fill="#6b737e"/>
+  <text x="350" y="204.32" class="t" font-size="12" font-weight="500" fill="#9aa3ad">Last active 2026-10-18</text>
   </g>
 
   <text x="824" y="236" text-anchor="end" class="m" font-size="10" letter-spacing="2.4" fill="#6b737e">CODE / SYSTEMS / IMPACT</text>
